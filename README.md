@@ -1,4 +1,4 @@
-# odin-recipes
+# Odin Recipes
 
 **Project Title**
 Project: Recipes
